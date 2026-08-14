@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0238-product-of-array-except-self](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
