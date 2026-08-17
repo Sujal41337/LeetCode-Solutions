@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0071-simplify-path) |
+| [0394-decode-string](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
