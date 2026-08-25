@@ -79,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0394-decode-string) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Sujal41337/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
